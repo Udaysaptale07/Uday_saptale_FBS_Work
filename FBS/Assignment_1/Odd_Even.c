@@ -12,6 +12,7 @@ int main()
 	else{
 		printf("given number is odd number");
 	}
-	return;
+	return 0;
 	
+
 }
