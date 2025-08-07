@@ -3,7 +3,7 @@ int main()
 char alph;
 {
 	printf("Enter a alphabet");
-	scanf("&ch",&alph);
+	scanf("ch",&alph);
 	
 	if (alph>='A' || alph<='Z')
 	printf("Its uppercase");
@@ -14,4 +14,5 @@ char alph;
 		return 0;
 
 }
+
 
